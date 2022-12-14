@@ -53,7 +53,7 @@
     </head>
     <body>
 
-        <table class="table table-success table-striped">
+        <table class="table table-success table-striped table-bordered border-success">
             <thead>
                 <tr>
                 <th scope="col"></th>
